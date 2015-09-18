@@ -1,0 +1,21 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xac="http://xacttime.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <xac:AddSchedules>
+         <xac:webServicesKey>dba11c40-2d35-45cf-9e31-547f60563d0c</xac:webServicesKey>
+         <xac:scheduleItems>
+            <xac:ScheduleItem>
+               <xac:UserId>0</xac:UserId>
+               <xac:EmployeeNumber>440385</xac:EmployeeNumber>
+               <xac:Start>2015-06-13T15:00:00</xac:Start>
+               <xac:Stop>2015-06-13T22:00:00</xac:Stop>
+               <xac:FlexStart></xac:FlexStart>
+               <xac:FlexStop></xac:FlexStop>
+               <xac:PayTypeId>0</xac:PayTypeId>
+               <xac:LaborLevelDetailIds>
+               </xac:LaborLevelDetailIds>
+            </xac:ScheduleItem>
+         </xac:scheduleItems>
+      </xac:AddSchedules>
+   </soapenv:Body>
+</soapenv:Envelope>

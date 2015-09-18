@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://xacttime.com/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://xacttime.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://xacttime.com/">
+      <s:import namespace="http://microsoft.com/wsdl/types/" />
+      <s:element name="GetAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="includeInactiveEmployees" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllResult" type="tns:ArrayOfScheduleItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfScheduleItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ScheduleItem" nillable="true" type="tns:ScheduleItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ScheduleItem">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="UserId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="EmployeeNumber" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Start" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="Stop" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FlexStart" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FlexStop" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="PayTypeId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="LaborLevelDetailIds" type="tns:ArrayOfInt" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInt">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="int" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetByEmployeeNumber">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeNumber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetByEmployeeNumberResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetByEmployeeNumberResult" type="tns:ArrayOfScheduleItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetByUserId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="userId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetByUserIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetByUserIdResult" type="tns:ArrayOfScheduleItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClearAllResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearByEmployeeNumber">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="employeeNumber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearByEmployeeNumberResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClearByEmployeeNumberResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearByUserId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="1" maxOccurs="1" name="fromDateInclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="toDateExclusive" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="userId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ClearByUserIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClearByUserIdResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddSchedules">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="webServicesKey" type="s1:guid" />
+            <s:element minOccurs="0" maxOccurs="1" name="scheduleItems" type="tns:ArrayOfScheduleItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddSchedulesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddSchedulesResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/wsdl/types/">
+      <s:simpleType name="guid">
+        <s:restriction base="s:string">
+          <s:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}" />
+        </s:restriction>
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetAllSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAll" />
+  </wsdl:message>
+  <wsdl:message name="GetAllSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetByEmployeeNumberSoapIn">
+    <wsdl:part name="parameters" element="tns:GetByEmployeeNumber" />
+  </wsdl:message>
+  <wsdl:message name="GetByEmployeeNumberSoapOut">
+    <wsdl:part name="parameters" element="tns:GetByEmployeeNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetByUserIdSoapIn">
+    <wsdl:part name="parameters" element="tns:GetByUserId" />
+  </wsdl:message>
+  <wsdl:message name="GetByUserIdSoapOut">
+    <wsdl:part name="parameters" element="tns:GetByUserIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ClearAllSoapIn">
+    <wsdl:part name="parameters" element="tns:ClearAll" />
+  </wsdl:message>
+  <wsdl:message name="ClearAllSoapOut">
+    <wsdl:part name="parameters" element="tns:ClearAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="ClearByEmployeeNumberSoapIn">
+    <wsdl:part name="parameters" element="tns:ClearByEmployeeNumber" />
+  </wsdl:message>
+  <wsdl:message name="ClearByEmployeeNumberSoapOut">
+    <wsdl:part name="parameters" element="tns:ClearByEmployeeNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="ClearByUserIdSoapIn">
+    <wsdl:part name="parameters" element="tns:ClearByUserId" />
+  </wsdl:message>
+  <wsdl:message name="ClearByUserIdSoapOut">
+    <wsdl:part name="parameters" element="tns:ClearByUserIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddSchedulesSoapIn">
+    <wsdl:part name="parameters" element="tns:AddSchedules" />
+  </wsdl:message>
+  <wsdl:message name="AddSchedulesSoapOut">
+    <wsdl:part name="parameters" element="tns:AddSchedulesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SchedulesSoap">
+    <wsdl:operation name="GetAll">
+      <wsdl:input message="tns:GetAllSoapIn" />
+      <wsdl:output message="tns:GetAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetByEmployeeNumber">
+      <wsdl:input message="tns:GetByEmployeeNumberSoapIn" />
+      <wsdl:output message="tns:GetByEmployeeNumberSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetByUserId">
+      <wsdl:input message="tns:GetByUserIdSoapIn" />
+      <wsdl:output message="tns:GetByUserIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearAll">
+      <wsdl:input message="tns:ClearAllSoapIn" />
+      <wsdl:output message="tns:ClearAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearByEmployeeNumber">
+      <wsdl:input message="tns:ClearByEmployeeNumberSoapIn" />
+      <wsdl:output message="tns:ClearByEmployeeNumberSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearByUserId">
+      <wsdl:input message="tns:ClearByUserIdSoapIn" />
+      <wsdl:output message="tns:ClearByUserIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddSchedules">
+      <wsdl:input message="tns:AddSchedulesSoapIn" />
+      <wsdl:output message="tns:AddSchedulesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SchedulesSoap" type="tns:SchedulesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAll">
+      <soap:operation soapAction="http://xacttime.com/GetAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetByEmployeeNumber">
+      <soap:operation soapAction="http://xacttime.com/GetByEmployeeNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetByUserId">
+      <soap:operation soapAction="http://xacttime.com/GetByUserId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearAll">
+      <soap:operation soapAction="http://xacttime.com/ClearAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearByEmployeeNumber">
+      <soap:operation soapAction="http://xacttime.com/ClearByEmployeeNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearByUserId">
+      <soap:operation soapAction="http://xacttime.com/ClearByUserId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddSchedules">
+      <soap:operation soapAction="http://xacttime.com/AddSchedules" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SchedulesSoap12" type="tns:SchedulesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAll">
+      <soap12:operation soapAction="http://xacttime.com/GetAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetByEmployeeNumber">
+      <soap12:operation soapAction="http://xacttime.com/GetByEmployeeNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetByUserId">
+      <soap12:operation soapAction="http://xacttime.com/GetByUserId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearAll">
+      <soap12:operation soapAction="http://xacttime.com/ClearAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearByEmployeeNumber">
+      <soap12:operation soapAction="http://xacttime.com/ClearByEmployeeNumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearByUserId">
+      <soap12:operation soapAction="http://xacttime.com/ClearByUserId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddSchedules">
+      <soap12:operation soapAction="http://xacttime.com/AddSchedules" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Schedules">
+    <wsdl:port name="SchedulesSoap" binding="tns:SchedulesSoap">
+      <soap:address location="https://xacttime.taserver.com/site/webservices/v2/schedules.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SchedulesSoap12" binding="tns:SchedulesSoap12">
+      <soap12:address location="https://xacttime.taserver.com/site/webservices/v2/schedules.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

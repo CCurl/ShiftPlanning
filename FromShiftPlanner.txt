@@ -1,0 +1,6225 @@
+<users>
+  <0>
+    <id>1647817</id>
+    <name>Abdur-Rahim, Mustafa</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440415</eid>
+    <location>0</location>
+    <total>10</total>
+  </0>
+  <1>
+    <id>1687923</id>
+    <name>Adam, David</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:36:00</work_start_date>
+    <eid>440562</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </1>
+  <2>
+    <id>1618605</id>
+    <name>Addison, Raheem</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440385</eid>
+    <location>0</location>
+    <total>10</total>
+  </2>
+  <3>
+    <id>1698852</id>
+    <name>Addison, Rhashid</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 22:41:00</work_start_date>
+    <eid>440563</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </3>
+  <4>
+    <id>1647708</id>
+    <name>Alamin, Abdush</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </4>
+  <5>
+    <id>1698700</id>
+    <name>Alderman, Calvin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 19:52:00</work_start_date>
+    <eid>440564</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </5>
+  <6>
+    <id>1439805</id>
+    <name>Alderman, Sylvester</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440269</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </6>
+  <7>
+    <id>1697687</id>
+    <name>Alexis, Emanuella Victoria</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:05:00</work_start_date>
+    <eid>440538</eid>
+    <location>0</location>
+    <total>7</total>
+  </7>
+  <8>
+    <id>1618618</id>
+    <name>Alicea, William</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440463</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </8>
+  <9>
+    <id>1439806</id>
+    <name>Alston, Barry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440310</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619533</id>
+        <start>29</start>
+        <schedule>873979</schedule>
+        <end>61</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186902809</id>
+        <start>29</start>
+        <schedule>900843</schedule>
+        <end>61</end>
+        <published>1434475185</published>
+        <edited>1434342920</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>16</total>
+    <reports>
+    </reports>
+  </9>
+  <10>
+    <id>1647713</id>
+    <name>Anderson, Chivon P.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440417</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </10>
+  <11>
+    <id>1698158</id>
+    <name>Anderson, Joseph</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:58:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </11>
+  <12>
+    <id>1618601</id>
+    <name>Anderson, Walden</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440456</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </12>
+  <13>
+    <id>1439807</id>
+    <name>Andrews, Alexander</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440066</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619487</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619601</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </13>
+  <14>
+    <id>1647717</id>
+    <name>Antley, Terrell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440353</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619516</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619638</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </14>
+  <15>
+    <id>1647826</id>
+    <name>Aponte, Pedro</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440444</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </15>
+  <16>
+    <id>1696049</id>
+    <name>Arroyo, Julian</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:14:00</work_start_date>
+    <eid>440643</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619568</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434471215</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619684</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </16>
+  <17>
+    <id>1439906</id>
+    <name>Avent, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440037</eid>
+    <location>0</location>
+    <total>10</total>
+  </17>
+  <18>
+    <id>1667729</id>
+    <name>Azogui, Ariella</name>
+    <group_id>2</group_id>
+    <work_start_date>2015-05-23 22:22:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </18>
+  <19>
+    <id>1618596</id>
+    <name>Bacott, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440396</eid>
+    <location>0</location>
+    <total>7</total>
+  </19>
+  <20>
+    <id>1699493</id>
+    <name>Baicu, Marc</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 10:39:00</work_start_date>
+    <eid>440513</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </20>
+  <21>
+    <id>1697880</id>
+    <name>Bailey, Philip</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:58:00</work_start_date>
+    <eid>440547</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </21>
+  <22>
+    <id>1441646</id>
+    <name>Baker, Ben</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 16:56:00</work_start_date>
+    <eid>440022</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </22>
+  <23>
+    <id>1439809</id>
+    <name>Barber, Troy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440071</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619579</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619697</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </23>
+  <24>
+    <id>1698703</id>
+    <name>Barnett, Tamanique</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 19:58:00</work_start_date>
+    <eid>440566</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </24>
+  <25>
+    <id>1698701</id>
+    <name>Barreiro, Leland</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 19:55:00</work_start_date>
+    <eid>440565</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </25>
+  <26>
+    <id>1439810</id>
+    <name>Bass, Keith</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440272</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619486</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619600</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </26>
+  <27>
+    <id>1697642</id>
+    <name>Batroni, Priscilla</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 13:48:00</work_start_date>
+    <eid>440567</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </27>
+  <28>
+    <id>1647787</id>
+    <name>Beatty, Kahseem</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440471</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </28>
+  <29>
+    <id>1663062</id>
+    <name>Bell, Jerome</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 13:59:00</work_start_date>
+    <eid>440486</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </29>
+  <30>
+    <id>1697986</id>
+    <name>Bell, William</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:29:00</work_start_date>
+    <eid>440568</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </30>
+  <31>
+    <id>1439811</id>
+    <name>Bethea, John</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440203</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619532</id>
+        <start>29</start>
+        <schedule>873942</schedule>
+        <end>61</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619648</id>
+        <start>29</start>
+        <schedule>873942</schedule>
+        <end>61</end>
+        <published>1434475185</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>16</total>
+    <reports>
+    </reports>
+  </31>
+  <32>
+    <id>1719960</id>
+    <name>Black, Harold</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-15 20:53:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </32>
+  <33>
+    <id>1439812</id>
+    <name>Blackstock, Charles</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440034</eid>
+    <location>0</location>
+    <total>10</total>
+  </33>
+  <34>
+    <id>1663267</id>
+    <name>Blanco, Carlos</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 15:12:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </34>
+  <35>
+    <id>1439813</id>
+    <name>Blanding, Daniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440074</eid>
+    <location>0</location>
+    <total>7</total>
+  </35>
+  <36>
+    <id>1696164</id>
+    <name>Blassingame, Ruby</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:57:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </36>
+  <37>
+    <id>1688164</id>
+    <name>Bodrick, Kevin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:33:00</work_start_date>
+    <eid>440599</eid>
+    <location>0</location>
+    <total>10</total>
+  </37>
+  <38>
+    <id>1647724</id>
+    <name>Bolds, Adecia T.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440388</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </38>
+  <39>
+    <id>1692705</id>
+    <name>Boursin, Manu</name>
+    <group_id>2</group_id>
+    <work_start_date>2015-06-03 16:32:00</work_start_date>
+    <eid>440346</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </39>
+  <40>
+    <id>1695275</id>
+    <name>Boyd, Shada</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440604</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </40>
+  <41>
+    <id>1599280</id>
+    <name>Braddy, Amanda</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-25 11:46:00</work_start_date>
+    <eid>440330</eid>
+    <location>0</location>
+    <total>10</total>
+  </41>
+  <42>
+    <id>1598534</id>
+    <name>Braddy, Fantasia</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-24 18:11:00</work_start_date>
+    <eid>440329</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </42>
+  <43>
+    <id>1647729</id>
+    <name>Braddy, Jonathan A.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440292</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </43>
+  <44>
+    <id>1698149</id>
+    <name>Brickhouse, Tyrell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:55:00</work_start_date>
+    <eid>440569</eid>
+    <location>0</location>
+    <total>7</total>
+  </44>
+  <45>
+    <id>1439816</id>
+    <name>Bright, Jammar</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440225</eid>
+    <location>0</location>
+    <total>10</total>
+  </45>
+  <46>
+    <id>1698707</id>
+    <name>Britt, Dominique</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 20:03:00</work_start_date>
+    <eid>440627</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </46>
+  <47>
+    <id>1647730</id>
+    <name>Brown Jr, Henry C.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440361</eid>
+    <location>0</location>
+    <total>7</total>
+  </47>
+  <48>
+    <id>1640384</id>
+    <name>Brown, Donell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-13 14:19:00</work_start_date>
+    <eid>440360</eid>
+    <location>0</location>
+    <total>10</total>
+  </48>
+  <49>
+    <id>1439817</id>
+    <name>Brown, Howard</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440076</eid>
+    <location>0</location>
+    <total>6</total>
+  </49>
+  <50>
+    <id>1648319</id>
+    <name>Brown, Jermain</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:13:00</work_start_date>
+    <eid>440509</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </50>
+  <51>
+    <id>1618616</id>
+    <name>Brown, Medina</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440379</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </51>
+  <52>
+    <id>1439818</id>
+    <name>Brown, Wendell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440077</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619492</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619603</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </52>
+  <53>
+    <id>1618617</id>
+    <name>Bryant, Keanna</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440408</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619536</id>
+        <start>29</start>
+        <schedule>890976</schedule>
+        <end>69</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 17:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </0>
+      <1>
+        <id>186619650</id>
+        <start>29</start>
+        <schedule>890976</schedule>
+        <end>69</end>
+        <published>1434409982</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 17:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </53>
+  <54>
+    <id>1647732</id>
+    <name>Burgos, Marcos G.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440412</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </54>
+  <55>
+    <id>1668378</id>
+    <name>Burton, Shamel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-24 15:24:00</work_start_date>
+    <eid>440570</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </55>
+  <56>
+    <id>1647852</id>
+    <name>Butler, Sunder</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647852</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </56>
+  <57>
+    <id>1647733</id>
+    <name>Caceres, Anthony J.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440418</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </57>
+  <58>
+    <id>1669670</id>
+    <name>Calloway, Erica</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-25 13:56:00</work_start_date>
+    <eid>440532</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </58>
+  <59>
+    <id>1698716</id>
+    <name>Cameron, Dayshawn</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 20:12:00</work_start_date>
+    <eid>440626</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </59>
+  <60>
+    <id>1439907</id>
+    <name>Campbell, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440081</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </60>
+  <61>
+    <id>1439930</id>
+    <name>Campbell, Martin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440205</eid>
+    <location>0</location>
+    <total>10</total>
+  </61>
+  <62>
+    <id>1675663</id>
+    <name>Caratini, Cesar</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-27 17:17:00</work_start_date>
+    <eid>440542</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </62>
+  <63>
+    <id>1697638</id>
+    <name>Carey, Lemel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 13:46:00</work_start_date>
+    <eid>440522</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </63>
+  <64>
+    <id>1687927</id>
+    <name>Carr, Alvin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:39:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </64>
+  <65>
+    <id>1695279</id>
+    <name>Carter, Levern</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440607</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </65>
+  <66>
+    <id>1653670</id>
+    <name>Cedeno, Daniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 14:04:00</work_start_date>
+    <eid>440430</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619509</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619629</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </66>
+  <67>
+    <id>1439931</id>
+    <name>Cereco, Andres</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440289</eid>
+    <location>0</location>
+    <total>10</total>
+  </67>
+  <68>
+    <id>1627660</id>
+    <name>Chaico, Jhony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-07 17:31:00</work_start_date>
+    <eid>440357</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619525</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619622</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </68>
+  <69>
+    <id>1647753</id>
+    <name>Clack, Deron</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647753</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </69>
+  <70>
+    <id>1439822</id>
+    <name>Clarke, Hassan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440251</eid>
+    <location>320244</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </70>
+  <71>
+    <id>1439823</id>
+    <name>Coleman, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440301</eid>
+    <location>0</location>
+    <total>7</total>
+  </71>
+  <72>
+    <id>1721786</id>
+    <name>Collins, Christopher</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-16 15:32:03</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </72>
+  <73>
+    <id>1439932</id>
+    <name>Colon, Jason</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440051</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </73>
+  <74>
+    <id>1687991</id>
+    <name>Comer, Lee</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:49:00</work_start_date>
+    <eid>440614</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </74>
+  <75>
+    <id>1444266</id>
+    <name>Compare, Achille</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-04 20:32:00</work_start_date>
+    <eid>440090</eid>
+    <location>0</location>
+    <total>10</total>
+  </75>
+  <76>
+    <id>1467988</id>
+    <name>Conquest, Terrell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-18 13:16:00</work_start_date>
+    <eid>440341</eid>
+    <location>0</location>
+    <total>7</total>
+  </76>
+  <77>
+    <id>1697637</id>
+    <name>Cook, Nathaniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 13:44:00</work_start_date>
+    <eid>440571</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </77>
+  <78>
+    <id>1439824</id>
+    <name>Cotten, Ervin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440092</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </78>
+  <79>
+    <id>1697938</id>
+    <name>Cotto, Amy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:13:00</work_start_date>
+    <eid>440619</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </79>
+  <80>
+    <id>1647899</id>
+    <name>Cotton, Danielle</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 18:52:00</work_start_date>
+    <eid>440378</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </80>
+  <81>
+    <id>1647741</id>
+    <name>Cuello, Claudio</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647741</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </81>
+  <82>
+    <id>1648310</id>
+    <name>Davis, Christopher</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 00:54:00</work_start_date>
+    <eid>440457</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187553265</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434505625</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>187553268</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434505638</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </82>
+  <83>
+    <id>1583354</id>
+    <name>Davis, Jessica</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 18:08:00</work_start_date>
+    <eid>440354</eid>
+    <location>0</location>
+    <total>4</total>
+  </83>
+  <84>
+    <id>1647748</id>
+    <name>Davis, Kelvin M.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440376</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </84>
+  <85>
+    <id>1648320</id>
+    <name>Davis, Leon</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:22:00</work_start_date>
+    <eid>440470</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186696745</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434167644</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186696747</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434167658</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </85>
+  <86>
+    <id>1671909</id>
+    <name>Dawson, Keyona</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 13:44:00</work_start_date>
+    <eid>440572</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </86>
+  <87>
+    <id>1698120</id>
+    <name>Dawson, Shaqua</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:44:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </87>
+  <88>
+    <id>1647858</id>
+    <name>Dawson, Tyquan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440458</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619528</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619627</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </88>
+  <89>
+    <id>1647783</id>
+    <name>De Castro Vargas, Jelen Jose</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440450</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </89>
+  <90>
+    <id>1439827</id>
+    <name>De Jesus, Angel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440001</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </90>
+  <91>
+    <id>1439829</id>
+    <name>De Jesus, Taharqa</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440098</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </91>
+  <92>
+    <id>1647848</id>
+    <name>Deans, Shana</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440485</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </92>
+  <93>
+    <id>1467554</id>
+    <name>Del Orbe, Andrew</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-18 09:42:00</work_start_date>
+    <eid>440100</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </93>
+  <94>
+    <id>1695170</id>
+    <name>Delauney, Patrick</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:20:00</work_start_date>
+    <eid>440629</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619559</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619662</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </94>
+  <95>
+    <id>1695277</id>
+    <name>Diaz, Arturo</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440606</eid>
+    <location>0</location>
+    <total>7</total>
+  </95>
+  <96>
+    <id>1439831</id>
+    <name>Diaz, Harold</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440103</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619581</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619695</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </96>
+  <97>
+    <id>1699581</id>
+    <name>Dieppa, David</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 11:43:00</work_start_date>
+    <eid>440530</eid>
+    <location>0</location>
+    <total>7</total>
+  </97>
+  <98>
+    <id>1660833</id>
+    <name>Diouf, Ibrahima</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-20 16:04:00</work_start_date>
+    <eid>440519</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </98>
+  <99>
+    <id>1647770</id>
+    <name>Donadell, Garry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440472</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </99>
+  <100>
+    <id>1677621</id>
+    <name>Dorsey, Jermaine</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-28 14:17:00</work_start_date>
+    <eid>440618</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </100>
+  <101>
+    <id>1640428</id>
+    <name>Dowling, Ruth</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-13 14:35:00</work_start_date>
+    <eid>440460</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </101>
+  <102>
+    <id>1695127</id>
+    <name>Duvivier, Isaiah</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:09:00</work_start_date>
+    <eid>440642</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </102>
+  <103>
+    <id>1703390</id>
+    <name>Echevarria, Emmanuel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-08 16:17:00</work_start_date>
+    <eid>440573</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </103>
+  <104>
+    <id>1615244</id>
+    <name>Echevarria, Jonathan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-02 15:21:00</work_start_date>
+    <eid>440407</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </104>
+  <105>
+    <id>1439934</id>
+    <name>Edwards, Clyde</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440025</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </105>
+  <106>
+    <id>1697855</id>
+    <name>Edwards, Kevin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:55:00</work_start_date>
+    <eid>440630</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </106>
+  <107>
+    <id>1618606</id>
+    <name>Edwin, Mack</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440362</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619546</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619614</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>17</total>
+    <reports>
+    </reports>
+  </107>
+  <108>
+    <id>1647790</id>
+    <name>Elie, Kevin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440469</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </108>
+  <109>
+    <id>1647764</id>
+    <name>Estridge, Tari L.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440375</eid>
+    <location>0</location>
+    <total>7</total>
+  </109>
+  <110>
+    <id>1618610</id>
+    <name>Evans, Nichole</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618610</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </110>
+  <111>
+    <id>1647766</id>
+    <name>Evans, Wayne H.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440293</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </111>
+  <112>
+    <id>1653523</id>
+    <name>Fajardo, Biancarlos Jose</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 13:56:00</work_start_date>
+    <eid>440428</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </112>
+  <113>
+    <id>1439935</id>
+    <name>Felix, Dylan</name>
+    <group_id>4</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440253</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187338419</id>
+        <start>25</start>
+        <schedule>866219</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434467120</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619628</id>
+        <start>25</start>
+        <schedule>866219</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </113>
+  <114>
+    <id>1647743</id>
+    <name>Fernandez, Cristian</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647743</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </114>
+  <115>
+    <id>1439936</id>
+    <name>Figueroa, Shaquille</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440119</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619582</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619692</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </115>
+  <116>
+    <id>1439836</id>
+    <name>Finch, Deborah</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440013</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619515</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186696800</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434247837</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </116>
+  <117>
+    <id>1439838</id>
+    <name>Fladger, Raheim</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440043</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619539</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619655</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </117>
+  <118>
+    <id>1618621</id>
+    <name>Flores, Shaquan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440394</eid>
+    <location>0</location>
+    <total>7</total>
+  </118>
+  <119>
+    <id>1647739</id>
+    <name>Fludd, Christopher</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440464</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </119>
+  <120>
+    <id>1695154</id>
+    <name>Fontanez, Olacen</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:17:00</work_start_date>
+    <eid>440574</eid>
+    <location>0</location>
+    <total>10</total>
+  </120>
+  <121>
+    <id>1698863</id>
+    <name>Ford, Keith</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 22:55:00</work_start_date>
+    <eid>440575</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </121>
+  <122>
+    <id>1647781</id>
+    <name>Forestal, Jean</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647781</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </122>
+  <123>
+    <id>1634678</id>
+    <name>Forrester, Timothy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-11 17:03:00</work_start_date>
+    <eid>440386</eid>
+    <location>0</location>
+    <total>7</total>
+  </123>
+  <124>
+    <id>1695188</id>
+    <name>Franklin, Matthew</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:31:00</work_start_date>
+    <eid>440544</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </124>
+  <125>
+    <id>1647850</id>
+    <name>Frazier, Shatya</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440465</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </125>
+  <126>
+    <id>1688034</id>
+    <name>Fullwood, Levern</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:06:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </126>
+  <127>
+    <id>1695270</id>
+    <name>Gaines, Eric</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440576</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </127>
+  <128>
+    <id>1678240</id>
+    <name>Galan, Javier</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-28 17:29:00</work_start_date>
+    <eid>440548</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619584</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619705</id>
+        <start>73</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>13</total>
+    <reports>
+    </reports>
+  </128>
+  <129>
+    <id>1439908</id>
+    <name>Garcia, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440279</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619490</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619602</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </129>
+  <130>
+    <id>1648316</id>
+    <name>Garcia, Donald</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:07:00</work_start_date>
+    <eid>440577</eid>
+    <location>0</location>
+    <total>10</total>
+  </130>
+  <131>
+    <id>1554557</id>
+    <name>Garcia, Juan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-04 17:37:00</work_start_date>
+    <eid>440039</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </131>
+  <132>
+    <id>1637930</id>
+    <name>Garcia, Omar</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-12 15:20:00</work_start_date>
+    <eid>440451</eid>
+    <location>0</location>
+    <total>7</total>
+  </132>
+  <133>
+    <id>1439840</id>
+    <name>Gardner, Bernard</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440129</eid>
+    <location>0</location>
+    <total>10</total>
+  </133>
+  <134>
+    <id>1439909</id>
+    <name>Gaskin, Salahdin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440131</eid>
+    <location>0</location>
+    <total>10</total>
+  </134>
+  <135>
+    <id>1666453</id>
+    <name>George, Xavier</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440502</eid>
+    <location>0</location>
+    <total>10</total>
+  </135>
+  <136>
+    <id>1647803</id>
+    <name>Gilbert, Marcus</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440466</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </136>
+  <137>
+    <id>1698729</id>
+    <name>Gillyard, Lawrence</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 20:26:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </137>
+  <138>
+    <id>1696048</id>
+    <name>Gonzalez, Nythoan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:14:00</work_start_date>
+    <eid>440617</eid>
+    <location>0</location>
+    <total>7</total>
+  </138>
+  <139>
+    <id>1687898</id>
+    <name>Gousby, Calvin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:31:00</work_start_date>
+    <eid>440578</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619549</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619618</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>17</total>
+    <reports>
+    </reports>
+  </139>
+  <140>
+    <id>1647771</id>
+    <name>Grace, Jerry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440389</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </140>
+  <141>
+    <id>1630525</id>
+    <name>Graham, Jaqueline</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 21:23:00</work_start_date>
+    <eid>1630525</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </141>
+  <142>
+    <id>1652300</id>
+    <name>Grant, Dane</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 10:28:00</work_start_date>
+    <eid>440429</eid>
+    <location>0</location>
+    <total>10</total>
+  </142>
+  <143>
+    <id>1648325</id>
+    <name>Grant, Jaton</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:32:00</work_start_date>
+    <eid>440484</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </143>
+  <144>
+    <id>1584005</id>
+    <name>Grant, Jerkeida</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-18 10:35:00</work_start_date>
+    <eid>440351</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619564</id>
+        <start>61</start>
+        <schedule>873942</schedule>
+        <end>85</end>
+        <published>1434476120</published>
+        <edited>1434231733</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 21:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619675</id>
+        <start>61</start>
+        <schedule>873942</schedule>
+        <end>85</end>
+        <published>1434475185</published>
+        <edited>1434231753</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 21:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>12</total>
+    <reports>
+    </reports>
+  </144>
+  <145>
+    <id>1439850</id>
+    <name>Grant, Tyrone</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440313</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </145>
+  <146>
+    <id>1699525</id>
+    <name>Greathouse, Nathaniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 10:54:00</work_start_date>
+    <eid>440424</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </146>
+  <147>
+    <id>1439843</id>
+    <name>Green, Barry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440210</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </147>
+  <148>
+    <id>1666454</id>
+    <name>Gunter, Harvey</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440512</eid>
+    <location>0</location>
+    <total>7</total>
+  </148>
+  <149>
+    <id>1695173</id>
+    <name>Hampton, Shanell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:23:00</work_start_date>
+    <eid>440580</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </149>
+  <150>
+    <id>1647791</id>
+    <name>Harraway, Kiara</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647791</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </150>
+  <151>
+    <id>1688071</id>
+    <name>Harris, Burton</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:14:00</work_start_date>
+    <eid>440581</eid>
+    <location>0</location>
+    <total>10</total>
+  </151>
+  <152>
+    <id>1439845</id>
+    <name>Harris, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440217</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </152>
+  <153>
+    <id>1696163</id>
+    <name>Harris, Naeem</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:57:00</work_start_date>
+    <eid>440602</eid>
+    <location>0</location>
+    <total>7</total>
+  </153>
+  <154>
+    <id>1647831</id>
+    <name>Harrison, Precious</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647831</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619544</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619659</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </154>
+  <155>
+    <id>1663283</id>
+    <name>Hassell, Steven</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 15:18:00</work_start_date>
+    <eid>440438</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </155>
+  <156>
+    <id>1439847</id>
+    <name>Henry, Richard</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440050</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </156>
+  <157>
+    <id>1695137</id>
+    <name>Hernandez, Angel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:11:00</work_start_date>
+    <eid>440582</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </157>
+  <158>
+    <id>1618602</id>
+    <name>Hernandez, Johnny</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618602</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </158>
+  <159>
+    <id>1698188</id>
+    <name>Hernandez, Rafael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 16:12:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </159>
+  <160>
+    <id>1647859</id>
+    <name>Hightower, Tyrone</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647859</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </160>
+  <161>
+    <id>1442322</id>
+    <name>Hinds, Chad</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 21:57:00</work_start_date>
+    <eid>440031</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </161>
+  <162>
+    <id>1697921</id>
+    <name>Hobson, Teddy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:09:00</work_start_date>
+    <eid>440546</eid>
+    <location>0</location>
+    <total>10</total>
+  </162>
+  <163>
+    <id>1618626</id>
+    <name>Huff, Keith</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440363</eid>
+    <location>0</location>
+    <total>10</total>
+  </163>
+  <164>
+    <id>1647834</id>
+    <name>Huggins, Rasheed</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647834</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </164>
+  <165>
+    <id>1647854</id>
+    <name>Hunter, Tasha</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647854</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </165>
+  <166>
+    <id>1439848</id>
+    <name>Hyman, Rodney</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440142</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619569</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619682</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </166>
+  <167>
+    <id>1647762</id>
+    <name>Imoloamen, Ehiaghe</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440425</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </167>
+  <168>
+    <id>1695089</id>
+    <name>Jackson, Timothy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 11:58:00</work_start_date>
+    <eid>440633</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619561</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619664</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </168>
+  <169>
+    <id>1666464</id>
+    <name>James, Mariah</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:21:00</work_start_date>
+    <eid>440644</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </169>
+  <170>
+    <id>1688029</id>
+    <name>James, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:03:00</work_start_date>
+    <eid>440585</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </170>
+  <171>
+    <id>1630500</id>
+    <name>Jenkins, Gerald</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 21:08:00</work_start_date>
+    <eid>440516</eid>
+    <location>0</location>
+    <total>7</total>
+  </171>
+  <172>
+    <id>1653512</id>
+    <name>Jenkins, Kevin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 13:50:00</work_start_date>
+    <eid>440477</eid>
+    <location>0</location>
+    <total>10</total>
+  </172>
+  <173>
+    <id>1439851</id>
+    <name>Johnson, Abram</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440254</eid>
+    <location>0</location>
+    <total>10</total>
+  </173>
+  <174>
+    <id>1680244</id>
+    <name>Johnson, Ammaad</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-29 14:03:00</work_start_date>
+    <eid>440549</eid>
+    <location>0</location>
+    <total>10</total>
+  </174>
+  <175>
+    <id>1696166</id>
+    <name>Johnson, Barry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:57:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </175>
+  <176>
+    <id>1669914</id>
+    <name>Johnson, Derek</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-25 15:57:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </176>
+  <177>
+    <id>1439852</id>
+    <name>Johnson, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440255</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619563</id>
+        <start>61</start>
+        <schedule>873979</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619649</id>
+        <start>29</start>
+        <schedule>873979</schedule>
+        <end>61</end>
+        <published>1434475185</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </177>
+  <178>
+    <id>1618628</id>
+    <name>Johnson, Jeremiah</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618628</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </178>
+  <179>
+    <id>1695141</id>
+    <name>Johnson, Lamar</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:12:00</work_start_date>
+    <eid>440583</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </179>
+  <180>
+    <id>1648451</id>
+    <name>Johnson, Marshall</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 09:50:00</work_start_date>
+    <eid>440455</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </180>
+  <181>
+    <id>1671064</id>
+    <name>Jones, Emilio</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 09:11:00</work_start_date>
+    <eid>440537</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </181>
+  <182>
+    <id>1647835</id>
+    <name>Jones, Raymond</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440478</eid>
+    <location>0</location>
+    <total>10</total>
+  </182>
+  <183>
+    <id>1695280</id>
+    <name>Jones, Victor</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </183>
+  <184>
+    <id>1439938</id>
+    <name>Jordan, Josue</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440032</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619483</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619598</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </184>
+  <185>
+    <id>1439853</id>
+    <name>Kennedy, John</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440154</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619482</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619597</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </185>
+  <186>
+    <id>1647749</id>
+    <name>Kenneth, Davis</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647749</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </186>
+  <187>
+    <id>1669682</id>
+    <name>Kiroja, Kenneth</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-25 14:12:00</work_start_date>
+    <eid>440555</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </187>
+  <188>
+    <id>1439939</id>
+    <name>Lamotte, Keith</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440265</eid>
+    <location>0</location>
+    <total>10</total>
+  </188>
+  <189>
+    <id>1583348</id>
+    <name>Landon, Christopher</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 18:02:00</work_start_date>
+    <eid>440347</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619522</id>
+        <start>25</start>
+        <schedule>766599</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Dispatcher</schedule_name>
+        <schedule_color>35</schedule_color>
+      </0>
+      <1>
+        <id>186619621</id>
+        <start>25</start>
+        <schedule>766599</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Dispatcher</schedule_name>
+        <schedule_color>35</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </189>
+  <190>
+    <id>1439854</id>
+    <name>Lasit, Ciara</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440321</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </190>
+  <191>
+    <id>1698208</id>
+    <name>Lassane, Kabore</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 16:16:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </191>
+  <192>
+    <id>1439910</id>
+    <name>Layne, Kelvin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440158</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619510</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619632</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </192>
+  <193>
+    <id>1671580</id>
+    <name>Lee, Charlie (Chang)</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 12:32:00</work_start_date>
+    <eid>440507</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </193>
+  <194>
+    <id>1695272</id>
+    <name>Leid, Dennis</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </194>
+  <195>
+    <id>1653703</id>
+    <name>Lemay, Ebony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 14:16:00</work_start_date>
+    <eid>440434</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </195>
+  <196>
+    <id>1630260</id>
+    <name>Lewis, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 18:21:00</work_start_date>
+    <eid>1630260</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </196>
+  <197>
+    <id>1667495</id>
+    <name>Lewis, Ronald</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 17:12:00</work_start_date>
+    <eid>440610</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </197>
+  <198>
+    <id>1647799</id>
+    <name>Liles, Lovell A.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440381</eid>
+    <location>0</location>
+    <total>10</total>
+  </198>
+  <199>
+    <id>1618600</id>
+    <name>Lipscomb, Daniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440384</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </199>
+  <200>
+    <id>1699529</id>
+    <name>Livingston, Kristina</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 11:00:00</work_start_date>
+    <eid>440552</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </200>
+  <201>
+    <id>1693395</id>
+    <name>Livshits, Yeugeny</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-03 19:16:00</work_start_date>
+    <eid>440533</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </201>
+  <202>
+    <id>1695146</id>
+    <name>Lockhart, Raquel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:14:00</work_start_date>
+    <eid>440584</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </202>
+  <203>
+    <id>1439899</id>
+    <name>Lopez, David</name>
+    <group_id>4</group_id>
+    <work_start_date>2015-02-03 00:31:00</work_start_date>
+    <eid>440002</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </203>
+  <204>
+    <id>1648328</id>
+    <name>Lopez, Eric</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:45:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </204>
+  <205>
+    <id>1439855</id>
+    <name>Lopez, Mauro</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440160</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619580</id>
+        <start>65</start>
+        <schedule>866217</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619667</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14.5</total>
+    <reports>
+    </reports>
+  </205>
+  <206>
+    <id>1688276</id>
+    <name>Love, Starkeysha</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:50:00</work_start_date>
+    <eid>440634</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </206>
+  <207>
+    <id>1618615</id>
+    <name>Mack, Marquies</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618615</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </207>
+  <208>
+    <id>1439911</id>
+    <name>Mackins, Duron</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440164</eid>
+    <location>0</location>
+    <total>10</total>
+  </208>
+  <209>
+    <id>1653675</id>
+    <name>Major, Ronald</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 14:05:00</work_start_date>
+    <eid>440479</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </209>
+  <210>
+    <id>1675506</id>
+    <name>Marlin, Ronnell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-27 16:11:00</work_start_date>
+    <eid>440600</eid>
+    <location>0</location>
+    <total>10</total>
+  </210>
+  <211>
+    <id>1647804</id>
+    <name>Marquez, Perry A.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440369</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619586</id>
+        <start>69</start>
+        <schedule>890976</schedule>
+        <end>85</end>
+        <published>1434476120</published>
+        <edited>1434239139</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 17:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 21:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </0>
+      <1>
+        <id>187530015</id>
+        <start>29</start>
+        <schedule>890976</schedule>
+        <end>69</end>
+        <published>0</published>
+        <edited>1434498210</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 17:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </211>
+  <212>
+    <id>1688240</id>
+    <name>Marshall, Antoine</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:44:00</work_start_date>
+    <eid>440615</eid>
+    <location>0</location>
+    <total>7</total>
+  </212>
+  <213>
+    <id>1647805</id>
+    <name>Marshall, Devon I.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440364</eid>
+    <location>0</location>
+    <total>10</total>
+  </213>
+  <214>
+    <id>1653527</id>
+    <name>Marte, Evander</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 13:58:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </214>
+  <215>
+    <id>1647820</id>
+    <name>Martin, Nathaniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440491</eid>
+    <location>0</location>
+    <total>7</total>
+  </215>
+  <216>
+    <id>1618611</id>
+    <name>Martinez, Betzaira</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440403</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619548</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619672</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </216>
+  <217>
+    <id>1651171</id>
+    <name>Martinez, Fernando</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-17 15:32:00</work_start_date>
+    <eid>440500</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </217>
+  <218>
+    <id>1698871</id>
+    <name>Martinez, Victor</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 23:12:00</work_start_date>
+    <eid>440587</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </218>
+  <219>
+    <id>1684694</id>
+    <name>McBride, Claudette</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-01 12:01:00</work_start_date>
+    <eid>440520</eid>
+    <location>0</location>
+    <total>10</total>
+  </219>
+  <220>
+    <id>1647782</id>
+    <name>McCaskill, Jeffery</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647782</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </220>
+  <221>
+    <id>1651230</id>
+    <name>McCray, Ismael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-17 16:41:00</work_start_date>
+    <eid>440482</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </221>
+  <222>
+    <id>1651154</id>
+    <name>McDonald, Dashaun</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-17 15:04:00</work_start_date>
+    <eid>440499</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </222>
+  <223>
+    <id>1663121</id>
+    <name>McKenzie, Marc</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 14:14:00</work_start_date>
+    <eid>440501</eid>
+    <location>0</location>
+    <total>10</total>
+  </223>
+  <224>
+    <id>1647810</id>
+    <name>McLamb, Corey I.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440373</eid>
+    <location>0</location>
+    <total>7</total>
+  </224>
+  <225>
+    <id>1722300</id>
+    <name>mclean, jemayll</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-16 17:13:12</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </225>
+  <226>
+    <id>1647811</id>
+    <name>Meichsner, Louis A.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440370</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186903026</id>
+        <start>61</start>
+        <schedule>900843</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434343097</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186903035</id>
+        <start>61</start>
+        <schedule>900843</schedule>
+        <end>89</end>
+        <published>1434475185</published>
+        <edited>1434343125</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </226>
+  <227>
+    <id>1647780</id>
+    <name>Melendez, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647780</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </227>
+  <228>
+    <id>1696050</id>
+    <name>Melendez, Jorge</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:14:00</work_start_date>
+    <eid>440612</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </228>
+  <229>
+    <id>1667873</id>
+    <name>Mendez, Jessica</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 23:53:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </229>
+  <230>
+    <id>1671579</id>
+    <name>Merritt, Monique</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 12:30:00</work_start_date>
+    <eid>440531</eid>
+    <location>0</location>
+    <total>10</total>
+  </230>
+  <231>
+    <id>1660807</id>
+    <name>Middleton, Joseph</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-20 15:57:00</work_start_date>
+    <eid>440483</eid>
+    <location>0</location>
+    <total>10</total>
+  </231>
+  <232>
+    <id>1648002</id>
+    <name>Miller, Kevin</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 19:36:00</work_start_date>
+    <eid>1648002</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </232>
+  <233>
+    <id>1699538</id>
+    <name>Mohamed, Texroy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 11:09:00</work_start_date>
+    <eid>440473</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </233>
+  <234>
+    <id>1666450</id>
+    <name>Monroe, Malik</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440497</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </234>
+  <235>
+    <id>1697984</id>
+    <name>Moody, Allan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:27:00</work_start_date>
+    <eid>440523</eid>
+    <location>0</location>
+    <total>7</total>
+  </235>
+  <236>
+    <id>1618627</id>
+    <name>Moody, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440410</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619552</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619673</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </236>
+  <237>
+    <id>1697805</id>
+    <name>Moore, Daniel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:39:00</work_start_date>
+    <eid>440518</eid>
+    <location>0</location>
+    <total>10</total>
+  </237>
+  <238>
+    <id>1647745</id>
+    <name>Moore, Darryl</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647745</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </238>
+  <239>
+    <id>1618608</id>
+    <name>Moore, Juanita</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618608</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </239>
+  <240>
+    <id>1638133</id>
+    <name>Moore, Robert</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-12 16:16:00</work_start_date>
+    <eid>440474</eid>
+    <location>0</location>
+    <total>10</total>
+  </240>
+  <241>
+    <id>1610890</id>
+    <name>Morales, Kassandra</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-30 09:29:00</work_start_date>
+    <eid>440345</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619535</id>
+        <start>29</start>
+        <schedule>890976</schedule>
+        <end>69</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 17:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </0>
+      <1>
+        <id>186619588</id>
+        <start>69</start>
+        <schedule>890976</schedule>
+        <end>85</end>
+        <published>1434476120</published>
+        <edited>1434239196</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 17:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 21:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+  </241>
+  <242>
+    <id>1582647</id>
+    <name>Morel, Angel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 13:24:00</work_start_date>
+    <eid>440343</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619583</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619696</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </242>
+  <243>
+    <id>1582920</id>
+    <name>Morrison, Khadija</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 15:21:00</work_start_date>
+    <eid>1582920</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </243>
+  <244>
+    <id>1647801</id>
+    <name>Mortir, Luis</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647801</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </244>
+  <245>
+    <id>1710150</id>
+    <name>Muentes, Carlos</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-11 09:38:00</work_start_date>
+    <eid>440638</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </245>
+  <246>
+    <id>1439864</id>
+    <name>Murray, Clarence</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440033</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619485</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619599</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </246>
+  <247>
+    <id>1648321</id>
+    <name>Nazario, Jose</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:24:00</work_start_date>
+    <eid>440427</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </247>
+  <248>
+    <id>1647765</id>
+    <name>Nelson, Eugene</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647765</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </248>
+  <249>
+    <id>1647812</id>
+    <name>Nelson, Melody</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440468</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </249>
+  <250>
+    <id>1718989</id>
+    <name>Nickolan, Cheryl</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-15 14:41:00</work_start_date>
+    <eid>440609</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </250>
+  <251>
+    <id>1630460</id>
+    <name>Nieves, Rafael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 20:42:00</work_start_date>
+    <eid>1630460</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </251>
+  <252>
+    <id>1698789</id>
+    <name>Nixon, Jerrold</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 21:06:00</work_start_date>
+    <eid>440588</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </252>
+  <253>
+    <id>1582755</id>
+    <name>O&#039;Bryant, Kiyon</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 14:10:00</work_start_date>
+    <eid>440306</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </253>
+  <254>
+    <id>1615234</id>
+    <name>Ortiz, Enrique</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-02 15:11:00</work_start_date>
+    <eid>440011</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </254>
+  <255>
+    <id>1667849</id>
+    <name>Ortiz, Renato</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 22:49:00</work_start_date>
+    <eid>440541</eid>
+    <location>0</location>
+    <total>10</total>
+  </255>
+  <256>
+    <id>1439869</id>
+    <name>Padilla, Ramon</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440019</eid>
+    <location>0</location>
+    <total>7</total>
+  </256>
+  <257>
+    <id>1697842</id>
+    <name>Palmer, Wayne</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:48:00</work_start_date>
+    <eid>440528</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </257>
+  <258>
+    <id>1699550</id>
+    <name>Parker, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 11:17:00</work_start_date>
+    <eid>440556</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </258>
+  <259>
+    <id>1688169</id>
+    <name>Parks, Robert</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:35:00</work_start_date>
+    <eid>440589</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </259>
+  <260>
+    <id>1688022</id>
+    <name>Patterson, Kim</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:01:00</work_start_date>
+    <eid>440590</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </260>
+  <261>
+    <id>1657683</id>
+    <name>Pereira, Eric</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-19 14:03:00</work_start_date>
+    <eid>440495</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186704393</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434189632</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619639</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </261>
+  <262>
+    <id>1618620</id>
+    <name>Perez, Eugene</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440398</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </262>
+  <263>
+    <id>1651110</id>
+    <name>Perez, Jean</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-17 14:37:00</work_start_date>
+    <eid>440431</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </263>
+  <264>
+    <id>1695276</id>
+    <name>Perez, Juan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440605</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </264>
+  <265>
+    <id>1697913</id>
+    <name>Perez, Lillian</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:06:00</work_start_date>
+    <eid>440536</eid>
+    <location>0</location>
+    <total>10</total>
+  </265>
+  <266>
+    <id>1648318</id>
+    <name>Perini, George</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 01:11:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </266>
+  <267>
+    <id>1695179</id>
+    <name>Perito, David</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:27:00</work_start_date>
+    <eid>440545</eid>
+    <location>0</location>
+    <total>10</total>
+  </267>
+  <268>
+    <id>1618603</id>
+    <name>Petersen, Arkeem</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440402</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </268>
+  <269>
+    <id>1439870</id>
+    <name>Peterson, Datari</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440187</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </269>
+  <270>
+    <id>1666456</id>
+    <name>Pettaford, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440493</eid>
+    <location>0</location>
+    <total>10</total>
+  </270>
+  <271>
+    <id>1697847</id>
+    <name>Phillips, Antonio</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 14:52:00</work_start_date>
+    <eid>440558</eid>
+    <location>0</location>
+    <total>10</total>
+  </271>
+  <272>
+    <id>1698112</id>
+    <name>Phillips, Carlos</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:42:00</work_start_date>
+    <eid>440557</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </272>
+  <273>
+    <id>1647827</id>
+    <name>Phillips, DeVaughn L.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440380</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </273>
+  <274>
+    <id>1688221</id>
+    <name>Plummer, Albert</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:37:00</work_start_date>
+    <eid>440591</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </274>
+  <275>
+    <id>1439915</id>
+    <name>Plummer, Keith</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440188</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619585</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619698</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </275>
+  <276>
+    <id>1467758</id>
+    <name>Polley, Christian</name>
+    <group_id>4</group_id>
+    <work_start_date>2015-02-18 11:29:00</work_start_date>
+    <eid>440010</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </276>
+  <277>
+    <id>1439871</id>
+    <name>Pollins, Aaron</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440189</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </277>
+  <278>
+    <id>1698792</id>
+    <name>Ponder, Vanessa</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 21:11:00</work_start_date>
+    <eid>440592</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </278>
+  <279>
+    <id>1439904</id>
+    <name>Poscidonio, Octavio</name>
+    <group_id>3</group_id>
+    <work_start_date>2015-02-03 00:31:00</work_start_date>
+    <eid>440212</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </279>
+  <280>
+    <id>1583376</id>
+    <name>Pough, Micah</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 18:25:00</work_start_date>
+    <eid>440342</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </280>
+  <281>
+    <id>1647862</id>
+    <name>Powell, Venessa</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440448</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619587</id>
+        <start>69</start>
+        <schedule>890976</schedule>
+        <end>85</end>
+        <published>1434476120</published>
+        <edited>1434239228</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 17:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 21:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </0>
+      <1>
+        <id>186619700</id>
+        <start>69</start>
+        <schedule>890976</schedule>
+        <end>85</end>
+        <published>1434409982</published>
+        <edited>1434239240</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 17:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 21:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </1>
+    </shifts>
+    <total>8</total>
+    <reports>
+    </reports>
+  </281>
+  <282>
+    <id>1647833</id>
+    <name>Ramirez, Angeliz</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440249</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187587463</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434513500</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619679</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </282>
+  <283>
+    <id>1667803</id>
+    <name>Ramirez, Jason</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 22:44:00</work_start_date>
+    <eid>440494</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </283>
+  <284>
+    <id>1648312</id>
+    <name>Ramirez, John</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-16 00:58:00</work_start_date>
+    <eid>440447</eid>
+    <location>0</location>
+    <total>10</total>
+  </284>
+  <285>
+    <id>1439943</id>
+    <name>Reid, Terrance</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440256</eid>
+    <location>0</location>
+    <total>10</total>
+  </285>
+  <286>
+    <id>1439944</id>
+    <name>Rice, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:49:00</work_start_date>
+    <eid>440263</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619504</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619633</id>
+        <start>25</start>
+        <schedule>756596</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </286>
+  <287>
+    <id>1666452</id>
+    <name>Richardson, Dashaun</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440511</eid>
+    <location>0</location>
+    <total>10</total>
+  </287>
+  <288>
+    <id>1663681</id>
+    <name>Richardson, Derek</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 17:37:00</work_start_date>
+    <eid>440521</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </288>
+  <289>
+    <id>1670441</id>
+    <name>Richardson, Jerry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-25 22:31:00</work_start_date>
+    <eid>440527</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </289>
+  <290>
+    <id>1647714</id>
+    <name>Rivera, Andrew</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440443</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </290>
+  <291>
+    <id>1647746</id>
+    <name>Rivera, David</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440492</eid>
+    <location>0</location>
+    <total>10</total>
+  </291>
+  <292>
+    <id>1695176</id>
+    <name>Rivera, Rosangela</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:24:00</work_start_date>
+    <eid>440593</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </292>
+  <293>
+    <id>1666455</id>
+    <name>Rivera, Rumi</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </293>
+  <294>
+    <id>1647838</id>
+    <name>Roberts, Gregory</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440042</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619572</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619687</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </294>
+  <295>
+    <id>1647839</id>
+    <name>Robinson, Corey F.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440372</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186697509</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434170705</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619670</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </295>
+  <296>
+    <id>1675572</id>
+    <name>Rodazo, Briana</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-27 16:29:53</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </296>
+  <297>
+    <id>1647716</id>
+    <name>Rodriguez, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647716</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </297>
+  <298>
+    <id>1708023</id>
+    <name>Rogers, Devine</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-10 13:22:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </298>
+  <299>
+    <id>1647867</id>
+    <name>Rogers, William</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440449</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </299>
+  <300>
+    <id>1688227</id>
+    <name>Rosa, Linda</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:39:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </300>
+  <301>
+    <id>1698801</id>
+    <name>Ross, Samuel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 21:17:00</work_start_date>
+    <eid>440594</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </301>
+  <302>
+    <id>1647721</id>
+    <name>Royal, Barbara</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647721</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </302>
+  <303>
+    <id>1618623</id>
+    <name>Ruiz, Aida</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440382</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619577</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619703</id>
+        <start>73</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>13</total>
+    <reports>
+    </reports>
+  </303>
+  <304>
+    <id>1439924</id>
+    <name>Ruiz, Arturo</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440262</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </304>
+  <305>
+    <id>1677713</id>
+    <name>Ruiz, Dabel</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-28 14:49:00</work_start_date>
+    <eid>440515</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </305>
+  <306>
+    <id>1442327</id>
+    <name>Saeed, Arslaan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 22:01:00</work_start_date>
+    <eid>440016</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </306>
+  <307>
+    <id>1668672</id>
+    <name>Saevor, Benelovence</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-24 20:10:00</work_start_date>
+    <eid>440488</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </307>
+  <308>
+    <id>1618598</id>
+    <name>Samuels, Heather</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440404</eid>
+    <location>0</location>
+    <total>8</total>
+  </308>
+  <309>
+    <id>1647789</id>
+    <name>sanchez, Kenneth</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647789</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </309>
+  <310>
+    <id>1688058</id>
+    <name>Santana, Rafael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:10:00</work_start_date>
+    <eid>440595</eid>
+    <location>0</location>
+    <total>10</total>
+  </310>
+  <311>
+    <id>1439916</id>
+    <name>Santiago, Erica</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440015</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619575</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619689</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </311>
+  <312>
+    <id>1663024</id>
+    <name>Satterfield, Rafael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 13:47:00</work_start_date>
+    <eid>440487</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </312>
+  <313>
+    <id>1695273</id>
+    <name>Sawadogo, Gildas Aser</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </313>
+  <314>
+    <id>1625154</id>
+    <name>Scott, Gerald</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-06 21:12:00</work_start_date>
+    <eid>440358</eid>
+    <location>0</location>
+    <total>10</total>
+  </314>
+  <315>
+    <id>1630142</id>
+    <name>Scott, Patricia</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 17:25:00</work_start_date>
+    <eid>1630142</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </315>
+  <316>
+    <id>1441205</id>
+    <name>Seagers, Shakir</name>
+    <group_id>5</group_id>
+    <work_start_date>0000-00-00 00:00:00</work_start_date>
+    <eid>440237</eid>
+    <location>320244</location>
+    <shifts>
+      <0>
+        <id>186619500</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619615</id>
+        <start>25</start>
+        <schedule>756595</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </316>
+  <317>
+    <id>1441666</id>
+    <name>Semprit, Jonathan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 17:12:00</work_start_date>
+    <eid>440238</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187552506</id>
+        <start>73</start>
+        <schedule>866219</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434504980</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619706</id>
+        <start>73</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>11</total>
+    <reports>
+    </reports>
+  </317>
+  <318>
+    <id>1439917</id>
+    <name>Serrano, Giovan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440155</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619562</id>
+        <start>61</start>
+        <schedule>756595</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619666</id>
+        <start>61</start>
+        <schedule>756595</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </318>
+  <319>
+    <id>1439876</id>
+    <name>Sharp, Allen</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440061</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619537</id>
+        <start>41</start>
+        <schedule>756594</schedule>
+        <end>73</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 10:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 18:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619652</id>
+        <start>41</start>
+        <schedule>756594</schedule>
+        <end>73</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 10:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 18:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>16</total>
+    <reports>
+    </reports>
+  </319>
+  <320>
+    <id>1677356</id>
+    <name>Shepherd, Ebony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-28 12:49:00</work_start_date>
+    <eid>440524</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </320>
+  <321>
+    <id>1697904</id>
+    <name>Shuman, Glenn</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:02:00</work_start_date>
+    <eid>440596</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </321>
+  <322>
+    <id>1442326</id>
+    <name>Silva, Alex</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 21:59:00</work_start_date>
+    <eid>440264</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187371012</id>
+        <start>61</start>
+        <schedule>866219</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434471076</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619688</id>
+        <start>65</start>
+        <schedule>756596</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>14.5</total>
+    <reports>
+    </reports>
+  </322>
+  <323>
+    <id>1687872</id>
+    <name>Singleton, Christopher</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:17:00</work_start_date>
+    <eid>440550</eid>
+    <location>0</location>
+    <total>7</total>
+  </323>
+  <324>
+    <id>1630497</id>
+    <name>Skeet, Kenroy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 21:01:00</work_start_date>
+    <eid>440480</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </324>
+  <325>
+    <id>1671094</id>
+    <name>Small, Trent</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 09:25:00</work_start_date>
+    <eid>440517</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </325>
+  <326>
+    <id>1669669</id>
+    <name>Smith, Anthony</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-25 13:56:00</work_start_date>
+    <eid>440529</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </326>
+  <327>
+    <id>1656800</id>
+    <name>Smith, Bruce</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-19 11:25:00</work_start_date>
+    <eid>440331</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </327>
+  <328>
+    <id>1687894</id>
+    <name>Smith, Dalone</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:27:00</work_start_date>
+    <eid>440559</eid>
+    <location>0</location>
+    <total>5.5</total>
+  </328>
+  <329>
+    <id>1439921</id>
+    <name>Smith, Darrell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440259</eid>
+    <location>0</location>
+    <total>10</total>
+  </329>
+  <330>
+    <id>1439877</id>
+    <name>Smith, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440150</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </330>
+  <331>
+    <id>1688261</id>
+    <name>Smith, Jeffrey</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:47:00</work_start_date>
+    <eid>440597</eid>
+    <location>0</location>
+    <total>10</total>
+  </331>
+  <332>
+    <id>1439878</id>
+    <name>Spencer, Gregory</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440260</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </332>
+  <333>
+    <id>1695278</id>
+    <name>Splunge, Shantae</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440241</eid>
+    <location>0</location>
+    <total>10</total>
+  </333>
+  <334>
+    <id>1439879</id>
+    <name>Spradley, Dana</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440040</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </334>
+  <335>
+    <id>1441188</id>
+    <name>Stewart, Caroleen</name>
+    <group_id>5</group_id>
+    <work_start_date>0000-00-00 00:00:00</work_start_date>
+    <eid>440030</eid>
+    <location>320244</location>
+    <total>8</total>
+  </335>
+  <336>
+    <id>1696165</id>
+    <name>Stewart, Mark</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 18:57:00</work_start_date>
+    <eid>440613</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186702760</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434185393</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619657</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </336>
+  <337>
+    <id>1704924</id>
+    <name>Stewart, Sean</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-09 10:46:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </337>
+  <338>
+    <id>1667689</id>
+    <name>Stroud, Lowell</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 21:50:00</work_start_date>
+    <eid>440611</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </338>
+  <339>
+    <id>1698884</id>
+    <name>Stukes, Sharif</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 23:26:00</work_start_date>
+    <eid>440560</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </339>
+  <340>
+    <id>1647802</id>
+    <name>Sukhram, Mahendra</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440453</eid>
+    <location>0</location>
+    <total>10</total>
+  </340>
+  <341>
+    <id>1439881</id>
+    <name>Sullivan, Jonathan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440048</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186902797</id>
+        <start>29</start>
+        <schedule>900843</schedule>
+        <end>61</end>
+        <published>1434476120</published>
+        <edited>1434342905</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 15:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619678</id>
+        <start>61</start>
+        <schedule>873979</schedule>
+        <end>89</end>
+        <published>1434475185</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Expeditor</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </341>
+  <342>
+    <id>1647796</id>
+    <name>Swan, Leroy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647796</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </342>
+  <343>
+    <id>1667702</id>
+    <name>Talbert, Carl</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 22:01:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </343>
+  <344>
+    <id>1439920</id>
+    <name>Talley, Ricardo</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440209</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619571</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </0>
+      <1>
+        <id>186619685</id>
+        <start>65</start>
+        <schedule>756595</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Driver</schedule_name>
+        <schedule_color>14</schedule_color>
+      </1>
+    </shifts>
+    <total>15</total>
+    <reports>
+    </reports>
+  </344>
+  <345>
+    <id>1444236</id>
+    <name>Tavarez, Edgar</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-04 20:07:00</work_start_date>
+    <eid>440141</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619538</id>
+        <start>61</start>
+        <schedule>756596</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </0>
+      <1>
+        <id>186619654</id>
+        <start>61</start>
+        <schedule>756596</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Biker</schedule_name>
+        <schedule_color>7</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </345>
+  <346>
+    <id>1698802</id>
+    <name>Taylor, Shanee</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 21:19:00</work_start_date>
+    <eid>440598</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </346>
+  <347>
+    <id>1687999</id>
+    <name>Texidor, Johan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 13:52:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </347>
+  <348>
+    <id>1697999</id>
+    <name>Thomas, Vincent</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:34:00</work_start_date>
+    <eid>440620</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </348>
+  <349>
+    <id>1666451</id>
+    <name>Thompson, Chamine</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-22 18:15:00</work_start_date>
+    <eid>440539</eid>
+    <location>0</location>
+    <total>10</total>
+  </349>
+  <350>
+    <id>1439919</id>
+    <name>Thorpe, Vaughan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 00:40:00</work_start_date>
+    <eid>440261</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </350>
+  <351>
+    <id>1439901</id>
+    <name>Tocci, Cole</name>
+    <group_id>4</group_id>
+    <work_start_date>2015-02-03 00:31:00</work_start_date>
+    <eid>440005</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </351>
+  <352>
+    <id>1677714</id>
+    <name>Torres, Papo</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-28 14:49:00</work_start_date>
+    <eid>440514</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </352>
+  <353>
+    <id>1695158</id>
+    <name>Torres, Ruth Noemi</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:19:00</work_start_date>
+    <eid>440621</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </353>
+  <354>
+    <id>1618614</id>
+    <name>Toval, Muhammad</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>1618614</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </354>
+  <355>
+    <id>1630173</id>
+    <name>Turner, Jessica</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-08 17:39:00</work_start_date>
+    <eid>1630173</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </355>
+  <356>
+    <id>1653686</id>
+    <name>Urena, Raumy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 14:08:00</work_start_date>
+    <eid>440432</eid>
+    <location>0</location>
+    <total>7.5</total>
+  </356>
+  <357>
+    <id>1442341</id>
+    <name>Valdez, Jessy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-03 22:20:00</work_start_date>
+    <eid>440291</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </357>
+  <358>
+    <id>1439882</id>
+    <name>Valdez, John</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440024</eid>
+    <location>0</location>
+    <total>6</total>
+  </358>
+  <359>
+    <id>1647851</id>
+    <name>Valentine, Stephen</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440426</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186820076</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434284396</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186820083</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434284408</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </359>
+  <360>
+    <id>1647861</id>
+    <name>Van Duyne, Russell T.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440419</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619596</id>
+        <start>73</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619646</id>
+        <start>25</start>
+        <schedule>866217</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>15.5</total>
+    <reports>
+    </reports>
+  </360>
+  <361>
+    <id>1671882</id>
+    <name>Vanwhervin, Dalton</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-26 13:39:00</work_start_date>
+    <eid>440535</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </361>
+  <362>
+    <id>1647778</id>
+    <name>Vasquez, Helen</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647778</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </362>
+  <363>
+    <id>1439883</id>
+    <name>Vaval, Sidney</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440110</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </363>
+  <364>
+    <id>1653892</id>
+    <name>Vega, Sheena</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-18 14:21:00</work_start_date>
+    <eid>440437</eid>
+    <location>0</location>
+    <total>10</total>
+  </364>
+  <365>
+    <id>1612185</id>
+    <name>Velasquez, Ricardo</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-30 16:57:00</work_start_date>
+    <eid>440366</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186697905</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>1434476120</published>
+        <edited>1434172093</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186697906</id>
+        <start>25</start>
+        <schedule>756594</schedule>
+        <end>65</end>
+        <published>0</published>
+        <edited>1434172103</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 06:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 16:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>20</total>
+    <reports>
+    </reports>
+  </365>
+  <366>
+    <id>1667639</id>
+    <name>Velez, Jeremy</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 20:14:00</work_start_date>
+    <eid>440459</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </366>
+  <367>
+    <id>1679869</id>
+    <name>Venning, Natasha</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-29 11:44:00</work_start_date>
+    <eid>440601</eid>
+    <location>0</location>
+    <total>7</total>
+  </367>
+  <368>
+    <id>1667601</id>
+    <name>verret, Danielle</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-23 19:43:00</work_start_date>
+    <eid>440496</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </368>
+  <369>
+    <id>1567483</id>
+    <name>Vidal, Brandon</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-11 15:05:00</work_start_date>
+    <eid>440106</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </369>
+  <370>
+    <id>1663010</id>
+    <name>Virdree, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-21 13:43:00</work_start_date>
+    <eid>440505</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </370>
+  <371>
+    <id>1698891</id>
+    <name>Vozzo, Carlief</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 23:34:00</work_start_date>
+    <eid>440622</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </371>
+  <372>
+    <id>1651521</id>
+    <name>Wade, Lamont</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-17 21:07:00</work_start_date>
+    <eid>440435</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </372>
+  <373>
+    <id>1697992</id>
+    <name>Walker, Angela</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 15:31:00</work_start_date>
+    <eid>440623</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </373>
+  <374>
+    <id>1695171</id>
+    <name>Walker, Brian</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:22:00</work_start_date>
+    <eid>440624</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </374>
+  <375>
+    <id>1618607</id>
+    <name>Walker, Shaniqua</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-04 18:09:00</work_start_date>
+    <eid>440383</eid>
+    <location>0</location>
+    <total>10</total>
+  </375>
+  <376>
+    <id>1688235</id>
+    <name>Ward, Pamela</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:41:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </376>
+  <377>
+    <id>1627556</id>
+    <name>Washington, Joseph</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-07 16:53:00</work_start_date>
+    <eid>440359</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </377>
+  <378>
+    <id>1439885</id>
+    <name>Washington, Michael</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440102</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>186619589</id>
+        <start>73</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>1434476120</published>
+        <edited>1434137836</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 18:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186619683</id>
+        <start>65</start>
+        <schedule>756594</schedule>
+        <end>95</end>
+        <published>0</published>
+        <edited>1434137836</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 16:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 23:30:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>13</total>
+    <reports>
+    </reports>
+  </378>
+  <379>
+    <id>1695234</id>
+    <name>Watson, Alyshia</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:52:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </379>
+  <380>
+    <id>1439884</id>
+    <name>Watson, Leon</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440099</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </380>
+  <381>
+    <id>1647863</id>
+    <name>Webster, Charles F.</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440387</eid>
+    <location>0</location>
+    <total>10</total>
+  </381>
+  <382>
+    <id>1698693</id>
+    <name>West, Dashawn</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-05 19:46:00</work_start_date>
+    <eid>440616</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </382>
+  <383>
+    <id>1699575</id>
+    <name>Wheeler, Shanice</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-06 11:31:00</work_start_date>
+    <eid>440525</eid>
+    <location>0</location>
+    <total>7</total>
+  </383>
+  <384>
+    <id>1695190</id>
+    <name>Whetsell, Garret</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:32:00</work_start_date>
+    <eid>440543</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </384>
+  <385>
+    <id>1647864</id>
+    <name>White, Aidan</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440414</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187375645</id>
+        <start>61</start>
+        <schedule>866217</schedule>
+        <end>89</end>
+        <published>1434476120</published>
+        <edited>1434471690</edited>
+        <start_date>2240</start_date>
+        <end_date>2240</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-17 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-17 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </0>
+      <1>
+        <id>186697997</id>
+        <start>61</start>
+        <schedule>756594</schedule>
+        <end>89</end>
+        <published>0</published>
+        <edited>1434471742</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 15:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 22:00:00</end_timestamp>
+        <schedule_name>Walker</schedule_name>
+        <schedule_color>1</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+    <reports>
+    </reports>
+  </385>
+  <386>
+    <id>1439887</id>
+    <name>White, Andre</name>
+    <group_id>4</group_id>
+    <work_start_date>2015-02-02 23:52:00</work_start_date>
+    <eid>440007</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </386>
+  <387>
+    <id>1688139</id>
+    <name>White, Terrance</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-02 14:25:00</work_start_date>
+    <eid></eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </387>
+  <388>
+    <id>1593767</id>
+    <name>White, Terry</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-22 22:25:00</work_start_date>
+    <eid>440349</eid>
+    <location>0</location>
+    <shifts>
+      <0>
+        <id>187147383</id>
+        <start>29</start>
+        <schedule>890976</schedule>
+        <end>69</end>
+        <published>1434409982</published>
+        <edited>1434403891</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 07:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 17:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </0>
+      <1>
+        <id>187530042</id>
+        <start>69</start>
+        <schedule>890976</schedule>
+        <end>85</end>
+        <published>0</published>
+        <edited>1434498255</edited>
+        <start_date>2241</start_date>
+        <end_date>2241</end_date>
+        <shift_loc>0</shift_loc>
+        <start_timestamp>2015-06-18 17:00:00</start_timestamp>
+        <end_timestamp>2015-06-18 21:00:00</end_timestamp>
+        <schedule_name>Picker/Packer</schedule_name>
+        <schedule_color>9</schedule_color>
+      </1>
+    </shifts>
+    <total>14</total>
+  </388>
+  <389>
+    <id>1695271</id>
+    <name>Williams, James</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-06-04 12:56:00</work_start_date>
+    <eid>440526</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </389>
+  <390>
+    <id>1660404</id>
+    <name>Williams, Kadeem</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-20 13:38:00</work_start_date>
+    <eid>440490</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </390>
+  <391>
+    <id>1583366</id>
+    <name>Wilson, Jenelle</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-04-17 18:16:00</work_start_date>
+    <eid>1583366</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </391>
+  <392>
+    <id>1647747</id>
+    <name>Wreck, David</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>440452</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </392>
+  <393>
+    <id>1647786</id>
+    <name>Yamroz, Joseph</name>
+    <group_id>5</group_id>
+    <work_start_date>2015-05-15 00:00:00</work_start_date>
+    <eid>1647786</eid>
+    <location>0</location>
+    <shifts></shifts>
+    <total>0</total>
+    <reports></reports>
+  </393>
+</users>
+<dates>
+  <0>
+    <id>2240</id>
+    <formatted>Jun 17, 2015</formatted>
+    <total>971.5</total>
+  </0>
+  <1>
+    <id>2241</id>
+    <formatted>Jun 18, 2015</formatted>
+    <total>937.5</total>
+  </1>
+</dates>
+<needs_publish>105</needs_publish>
+<needs_republish>0</needs_republish>
+<total>1909</total>
